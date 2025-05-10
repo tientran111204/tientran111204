@@ -2,7 +2,7 @@
 
 I'm an Undergraduate student in Data Science. I am interested in the following topics: Machine Learning, Deep Learning and AI.
 
-## Connect wiht me:
+## Connect with me:
 
 Feel free to reach out through any of these channels:
 
