@@ -1,6 +1,6 @@
 ## About me:
 
-I'm an Undergraduate student in Data Science. I am interested in the following topics: Machine Learning, Deep Learning and AI.
+My name is Tran Tan Tien, an undergraduate student majoring in Data Science at VNU-HCM University of Science, Vietnam. I'm interested in Mathematics, Machine Learning, Deep Learning, and Artificial Intelligence.
 
 ## Connect with me:
 
